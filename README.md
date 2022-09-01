@@ -1,5 +1,9 @@
 # Redbot
-:bangbang: | Redbot is still in beta. Please don't do so much, and we would like you to try to learn as much before release.:---: | :---
+:bangbang: |  Redbot is going under some heavy development, please don't mess around with it.
+:---: | :---
+
+Roblox Verification made easy! Features everything you need to integrate your Discord server with Roblox.
+
 RedBot is a open-source project by 9kayoh on roblox.
 # Contributing
 You can script some code; then request a Pull Request.
