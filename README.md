@@ -1,4 +1,5 @@
-# RedBot
+# Redbot
+:bangbang: | Redbot is still in beta. Please don't do so much, and we would like you to try to learn as much before release.:---: | :---
 RedBot is a open-source project by 9kayoh on roblox.
 # Contributing
 You can script some code; then request a Pull Request.
